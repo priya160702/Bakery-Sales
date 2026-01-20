@@ -75,9 +75,11 @@ Clone the repository.
 
 Ensure you have the required libraries installed:
 
-Bash
+```Bash
 
 pip install pandas numpy matplotlib seaborn mlxtend networkx prophet scikit-learn
+```
+
 Open bakery-sales-analysis.ipynb in Jupyter Notebook or Kaggle.
 
 <img src="bakery.png" alt="Picture" width="300"/>
