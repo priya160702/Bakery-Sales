@@ -7,7 +7,7 @@ The core challenges addressed in this project are:
 
 1. **Undiscovered Product Associations:** The bakery lacks a data-driven understanding of which products are frequently purchased together. Without identifying these "Market Baskets", the business cannot effectively design product bundles or cross-selling strategies.
 
-2. **Inefficient Inventory & Staffing:** Sales fluctuate significantly across different times of the day (Morning, Afternoon, Evening) and seasons. Without a precise analysis of these trends and a reliable forecasting model, the bakery risks either overstocking (leading to waste) or understocking during peak hours (resulting in lost revenue).
+2. __Inefficient Inventory & Staffing:__ Sales fluctuate significantly across different times of the day (Morning, Afternoon, Evening) and seasons. Without a precise analysis of these trends and a reliable forecasting model, the bakery risks either overstocking (leading to waste) or understocking during peak hours (resulting in lost revenue).
 
 3. **Lack of Customer Personalization:** The bakery treats its customer base as a monolith. By not segmenting customers based on their specific purchasing habits, the business misses the opportunity to create targeted marketing campaigns and loyalty rewards that cater to different high-value groups.
 
