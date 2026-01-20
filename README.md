@@ -11,7 +11,8 @@ The core challenges addressed in this project are:
 
 3. Lack of Customer Personalization: The bakery treats its customer base as a monolith. By not segmenting customers based on their specific purchasing habits, the business misses the opportunity to create targeted marketing campaigns and loyalty rewards that cater to different high-value groups.
 
-### Objective: The goal of this project is to leverage Association Rule Mining (Apriori Algorithm) and Time Series Forecasting to transform raw transaction data into strategic business intelligence. This will enable the bakery to optimize its menu, improve operational efficiency through demand prediction, and enhance the customer experience through data-backed promotions.
+### Objective: 
+The goal of this project is to leverage Association Rule Mining (Apriori Algorithm) and Time Series Forecasting to transform raw transaction data into strategic business intelligence. This will enable the bakery to optimize its menu, improve operational efficiency through demand prediction, and enhance the customer experience through data-backed promotions.
 
 ### Project Overview
 This project provides a comprehensive analysis of bakery transaction data to uncover customer purchasing patterns and business performance trends. By leveraging data science techniques such as Association Rule Mining and Time Series Forecasting, the study identifies key product relationships (e.g., "The Coffee Effect") and predicts future sales to optimize inventory and marketing strategies.
