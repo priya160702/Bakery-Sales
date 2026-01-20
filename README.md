@@ -71,15 +71,15 @@ Based on the data, the project suggests:
 3. Targeted Marketing: Leveraging customer segments for personalized loyalty rewards.
 
 ### How to Run
-Clone the repository.
+1. Clone the repository.
 
-Ensure you have the required libraries installed:
+2. Ensure you have the required libraries installed:
 
 ```Bash
 
 pip install pandas numpy matplotlib seaborn mlxtend networkx prophet scikit-learn
 ```
 
-Open bakery-sales-analysis.ipynb in Jupyter Notebook or Kaggle.
+3. Open bakery-sales-analysis.ipynb in Jupyter Notebook or Kaggle.
 
 <img src="bakery.png" alt="Picture" width="300"/>
