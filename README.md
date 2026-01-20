@@ -64,13 +64,13 @@ Visualization: Mapping rules into a network graph where nodes represent items an
 ### Strategic Recommendations
 Based on the data, the project suggests:
 
-Custom Bundling: Creating "Coffee & Pastry" combos to increase the average transaction value.
+1. Custom Bundling: Creating "Coffee & Pastry" combos to increase the average transaction value.
 
-Seasonal Promotions: Adjusting inventory and staffing based on identified peak hours and seasonal trends.
+2. Seasonal Promotions: Adjusting inventory and staffing based on identified peak hours and seasonal trends.
 
-Targeted Marketing: Leveraging customer segments for personalized loyalty rewards.
+3. Targeted Marketing: Leveraging customer segments for personalized loyalty rewards.
 
-How to Run
+### How to Run
 Clone the repository.
 
 Ensure you have the required libraries installed:
