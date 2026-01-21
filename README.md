@@ -14,6 +14,8 @@ The core challenges addressed in this project are:
 ### Objective: 
 The goal of this project is to leverage Association Rule Mining (Apriori Algorithm) and Time Series Forecasting to transform raw transaction data into strategic business intelligence. This will enable the bakery to optimize its menu, improve operational efficiency through demand prediction, and enhance the customer experience through data-backed promotions.
 
+<img src="bakery.png" alt="Picture" width="300"/>
+
 ### Project Overview
 This project provides a comprehensive analysis of bakery transaction data to uncover customer purchasing patterns and business performance trends. By leveraging data science techniques such as Association Rule Mining and Time Series Forecasting, the study identifies key product relationships (e.g., "The Coffee Effect") and predicts future sales to optimize inventory and marketing strategies.
 
@@ -82,4 +84,3 @@ pip install pandas numpy matplotlib seaborn mlxtend networkx prophet scikit-lear
 
 3. Open bakery-sales-analysis.ipynb in Jupyter Notebook or Kaggle.
 
-<img src="bakery.png" alt="Picture" width="300"/>
